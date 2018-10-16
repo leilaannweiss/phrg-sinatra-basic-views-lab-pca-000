@@ -20,4 +20,9 @@ Start by writing the HTML in `index.erb`. Run the rspec tests to make sure you h
 ### Step 2:
 
 In `app.rb`, you'll want to create a controller action responds to a GET request and loads `index.erb` in the browser.
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-basic-views-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-basic-views-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Basic Views Lab</p>
